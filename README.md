@@ -3,7 +3,7 @@
 Learning Technologies 
 
 
-GraphQL explained + tech used 
+GraphQL + tech used 
 Setting Up Database & Server
 Register & Login Users
 Authentication middleware & Create/Delete posts
